@@ -1,4 +1,4 @@
-package com.tnsif.DayNine;
+package com.tnsif.DayNine.MethodOverloading;
 
 public class MethodOverloadingDemo {
 	public static int addition(int a,int b)
